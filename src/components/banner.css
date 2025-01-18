@@ -1,0 +1,8 @@
+.container-banner {
+    background-image: url('/img/banner.png');
+    background-size: cover; /* Hace que la imagen cubra todo el contenedor */
+    background-position: center center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita si es más pequeña que el contenedor */
+    width: 100%; /* Asegura que el contenedor ocupe el 100% del ancho disponible */
+    opacity: 0.8; /* Añade un efecto de transparencia */
+}

@@ -1,0 +1,13 @@
+.innova-title{
+    background-color: rgb(209, 192, 8);
+}
+
+.video-card-innova{
+    border: 2px solid rgb(209, 192, 8);
+    border-radius: 10px;
+}
+
+.video-card-innova video{
+    border: 2px solid  rgb(209, 192, 8);
+    border-radius: 10px 10px 0 0px;
+}

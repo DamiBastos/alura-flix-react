@@ -1,0 +1,17 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+}
+
+.header-botones {
+    display: flex;
+    gap: 1rem;
+}
+
+.header-botones button{
+    
+    padding: 0.3rem 1rem;
+}

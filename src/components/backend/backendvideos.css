@@ -1,0 +1,13 @@
+.back-title{
+    background-color: rgb(8, 209, 85);
+}
+
+.video-card-back{
+    border: 2px solid rgb(8, 209, 85);
+    border-radius: 10px;
+}
+
+.video-card-back video{
+    border: 2px solid rgb(8, 209, 85);
+    border-radius: 10px 10px 0 0px;
+}

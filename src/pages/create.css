@@ -1,0 +1,27 @@
+.create-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-container form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 0.5rem;
+    padding: 1rem;
+}
+
+.create-container input, textarea{
+    width: 100%;
+    padding: 0.5rem;
+}
+
+@media (min-width: 768px){
+    .create-container form{
+        width: 50%;
+    }
+}
